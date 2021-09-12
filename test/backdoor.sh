@@ -1,0 +1,1 @@
+sh baseline_mnist_lr.sh --backdoor-test --backdoor-test-frequency 15 --backdoor-defense --backdoor-defense-shrink 0.05 --backdoor-defense-noise 0.005
